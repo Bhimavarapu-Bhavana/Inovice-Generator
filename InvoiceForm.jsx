@@ -7,7 +7,7 @@ import {
   PlusIcon,
   TrashIcon,
   TagIcon,
-} from './Icons'
+} from './Icon'
 const DEFAULT_ITEM = { description: '', quantity: '', price: '' }
 /**
  * InvoiceForm – the left-panel input form

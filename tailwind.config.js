@@ -2,7 +2,12 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./main.jsx",
+    "./App.jsx",
+    "./InvoiceForm.jsx",
+    "./InvoicePreview.jsx",
+    "./Icon.jsx",
+    "./UI.jsx",
   ],
   theme: {
     extend: {
