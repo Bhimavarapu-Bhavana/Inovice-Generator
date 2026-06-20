@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react'
-import InvoiceForm from './components/InvoiceForm'
-import InvoicePreview, { calcTotals, fmt } from './components/InvoicePreview'
-import { PrinterIcon, ArrowLeftIcon, CheckCircleIcon } from './components/Icons'
+import InvoiceForm from './InvoiceForm'
+import InvoicePreview, { calcTotals, fmt } from './InvoicePreview'
+import { PrinterIcon, ArrowLeftIcon, CheckCircleIcon } from './Icon'
 /* ─── Default form state ─────────────────────────────────────────── */
 const DEFAULT_FORM = {
   invoiceNumber : 'INV-001',
