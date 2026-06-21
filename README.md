@@ -1,5 +1,8 @@
 # Inovice-Generator
 # ⚡ Invoice Generator
+> **Live Demo:** [https://inovice-generator-alpha.vercel.app](https://inovice-generator-alpha.vercel.app)
+
+# ⚡ Invoice Generator
 A professional, responsive, and print-ready Invoice Generator built with **React + Vite + Tailwind CSS**. Ready for one-click Vercel deployment.
 ---
 ## ✨ Features
@@ -11,21 +14,20 @@ A professional, responsive, and print-ready Invoice Generator built with **React
 - 📱 **Fully responsive** — Mobile-first layout
 - 🎨 **Premium dark UI** — Glassmorphism, animated gradient orbs, micro-animations
 - 🦸 **Digital Heroes link** — [Built for Digital Heroes](https://digitalheroesco.com)
+- - 🌐 *Live Deployment* — Hosted on Vercel for instant access
 ---
 ## 🚀 Getting Started
-### 1. Install dependencies
-```bash
-npm install
-```
-### 2. Run dev server
-```bash
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-### 3. Build for production
-```bash
-npm run build
-```
+## 🚀 How to Run Locally
+1. **Clone the repository:**
+   `git clone https://github.com/Bhimavarapu-Bhavana/Inovice-Generator.git`
+2. **Install dependencies:**
+   `npm install`
+3. **Run dev server:**
+   `npm run dev`
+   *Open [http://localhost:5173](http://localhost:5173) in your browser.*
+
+## 🌐 Live Access
+You can use the live version of this tool here: [Invoice Generator](https://inovice-generator-alpha.vercel.app)
 ---
 ## 🌐 Deploy to Vercel
 ### Option A — Vercel CLI
