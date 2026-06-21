@@ -29,19 +29,6 @@ A professional, responsive, and print-ready Invoice Generator built with **React
 ## 🌐 Live Access
 You can use the live version of this tool here: [Invoice Generator](https://inovice-generator-alpha.vercel.app)
 ---
-## 🌐 Deploy to Vercel
-### Option A — Vercel CLI
-```bash
-npx vercel
-```
-### Option B — GitHub Import
-1. Push this folder to a GitHub repository
-2. Go to [vercel.com/new](https://vercel.com/new)
-3. Import the repository
-4. Framework: **Vite** (auto-detected)
-5. Click **Deploy** 🚀
-The `vercel.json` SPA rewrite rule is already included.
----
 ## 📁 Project Structure
 ```
 invoice-generator/
